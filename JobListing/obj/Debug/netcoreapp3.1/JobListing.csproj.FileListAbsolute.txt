@@ -1,0 +1,84 @@
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\JobListing.exe
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\JobListing.deps.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\JobListing.runtimeconfig.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\JobListing.runtimeconfig.dev.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\JobListing.dll
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\JobListing.pdb
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\JobListing.Views.dll
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\JobListing.Views.pdb
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.csproj.AssemblyReference.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.AssemblyInfoInputs.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.AssemblyInfo.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.csproj.CoreCompileInputs.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorAssemblyInfo.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorAssemblyInfo.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\JobListing.StaticWebAssets.Manifest.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\JobListing.StaticWebAssets.Pack.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.JobListing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.JobListing.props
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.JobListing.props
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.JobListing.props
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.TagHelpers.input.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.TagHelpers.output.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorCoreGenerate.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorTargetAssemblyInfo.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorTargetAssemblyInfo.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.Views.pdb
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.dll
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.pdb
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.genruntimeconfig.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\obj\Debug\netcoreapp3.1\JobListing.csproj.CopyComplete
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\JobListingApp\JobListing\bin\Debug\netcoreapp3.1\Models\data.json
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\Models\data.json
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\JobListing.exe
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\JobListing.deps.json
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\JobListing.runtimeconfig.json
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\JobListing.runtimeconfig.dev.json
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\JobListing.dll
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\JobListing.pdb
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\JobListing.Views.dll
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\bin\Debug\netcoreapp3.1\JobListing.Views.pdb
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.csproj.AssemblyReference.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.AssemblyInfoInputs.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.AssemblyInfo.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.csproj.CoreCompileInputs.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorAssemblyInfo.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorAssemblyInfo.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\JobListing.StaticWebAssets.Manifest.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\JobListing.StaticWebAssets.Pack.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.JobListing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.JobListing.props
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.JobListing.props
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.JobListing.props
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.TagHelpers.input.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.TagHelpers.output.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorCoreGenerate.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorTargetAssemblyInfo.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.RazorTargetAssemblyInfo.cs
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.Views.pdb
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.dll
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.pdb
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.genruntimeconfig.cache
+C:\Users\Olorunshola.j\Source\Repos\joblistinginmvcc-JoshMcDavid\JobListing\obj\Debug\netcoreapp3.1\JobListing.csproj.CopyComplete
